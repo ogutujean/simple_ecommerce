@@ -17,3 +17,16 @@ To install the project follow these steps:
 1. `python manage.py runserver`
 
 
+
+Cloning a repository:
+  git clone https://github.com/overiq/simple_ecommerce.git
+
+Forking a repository
+  https://github.com/ogutujean/simple_ecommerce.git
+
+Cloning the forked repo
+  git clone https://github.com/ogutujean/simple_ecommerce.git
+
+Creating and Switching Branches
+  git checkout -b feature-update
+
