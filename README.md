@@ -49,6 +49,19 @@ I staged and commited the changes: git add .   then     git commit -m "Resolving
 
 I returned to my master branch and merged the new branch: git checkout master     then    git merge conflict-resolution
 
+created a new file in my github repo called file.html
+
+Enabled github pages and set the source to master
+
+Accesing the published page : https://ogutujean.github.io/simple_ecommerce/
+
+I explored source projects and read the documentation, browsed the issues, and reviewed the contribution guidelines.
+
+ I Opened a new issue in the open-source projectand  requested for clarification
+
+ I pushed my changed to the github repo : git push origin master
+
+
 
 
 
