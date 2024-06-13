@@ -30,3 +30,18 @@ Cloning the forked repo
 Creating and Switching Branches
   git checkout -b feature-update
 
+Made an addition of welcome message to the templates(index.html) file as h2
+
+Committed changes : first by staging the changes : git add .
+                    Then by commiting :git commit -m "Added Welcome message the indexfile in templates"
+
+Switched back to the master branch: git checkout master
+
+Merged the changes of the feature-update branch: git merge feature-update
+
+Creating conflict in my forked repo: first added the welcome message in the index.html file, i staged and commited.
+
+
+
+
+
