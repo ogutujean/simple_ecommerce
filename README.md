@@ -39,7 +39,17 @@ Switched back to the master branch: git checkout master
 
 Merged the changes of the feature-update branch: git merge feature-update
 
-Creating conflict in my forked repo: first added the welcome message in the index.html file, i staged and commited.
+Creating conflict in my forked repo: first added the welcome message in the index.html file and commited it as "updateindex.html".
+
+Creating and switching to a new branch called conflict-resolution: git checkout -b conflict-resolution
+
+In my file in vs code i deleted the welcome message in the index.html
+
+I staged and commited the changes: git add .   then     git commit -m "Resolving the conflict by removing the welcome message"
+
+I returned to my master branch and merged the new branch: git checkout master     then    git merge conflict-resolution
+
+
 
 
 
